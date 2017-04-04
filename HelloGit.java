@@ -8,3 +8,6 @@ public class HelloGit{
 
 
 fix bug
+
+
+ce shi xiu fu bug he bing fenzhi dev shifou tongbu
