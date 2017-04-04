@@ -11,3 +11,4 @@ fix bug3
 
 
 ce shi xiu fu bug he bing fenzhi dev shifou tongbu
+wo de bugfix4
